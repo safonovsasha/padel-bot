@@ -1,4 +1,4 @@
-cat > padel_bot.py << 'EOF'
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
